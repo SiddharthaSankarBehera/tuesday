@@ -2,3 +2,4 @@ this is feature-3
 
 now line 1
 
+new line 2
